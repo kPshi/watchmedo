@@ -1,0 +1,31 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "xfNqtWGhBdwmXLexsPvjajlPvYs=",
+			"path": "github.com/phayes/permbits",
+			"revision": "529f712b661aa1075f21a3d7380f3a998556c1a2",
+			"revisionTime": "2017-11-09T13:25:41Z"
+		},
+		{
+			"checksumSHA1": "BGm8lKZmvJbf/YOJLeL1rw2WVjA=",
+			"path": "golang.org/x/crypto/ssh/terminal",
+			"revision": "614d502a4dac94afa3a6ce146bd1736da82514c6",
+			"revisionTime": "2018-07-28T08:01:47Z"
+		},
+		{
+			"checksumSHA1": "0YaJxT/qQOqE1/hv9j5oSaMJOUQ=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "4910a1d54f876d7b22162a85f4d066d3ee649450",
+			"revisionTime": "2018-08-24T09:55:51Z"
+		},
+		{
+			"checksumSHA1": "apLcjhTfa/nKhpXTXjpfIZxVTKQ=",
+			"path": "golang.org/x/sys/windows",
+			"revision": "4910a1d54f876d7b22162a85f4d066d3ee649450",
+			"revisionTime": "2018-08-24T09:55:51Z"
+		}
+	],
+	"rootPath": "github.com/kPshi/watchmedo"
+}
